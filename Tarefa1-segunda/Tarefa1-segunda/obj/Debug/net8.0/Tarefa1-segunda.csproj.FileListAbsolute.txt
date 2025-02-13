@@ -1,0 +1,14 @@
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\bin\Debug\net8.0\Tarefa1-segunda.exe
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\bin\Debug\net8.0\Tarefa1-segunda.deps.json
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\bin\Debug\net8.0\Tarefa1-segunda.runtimeconfig.json
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\bin\Debug\net8.0\Tarefa1-segunda.dll
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\bin\Debug\net8.0\Tarefa1-segunda.pdb
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\obj\Debug\net8.0\Tarefa1-segunda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\obj\Debug\net8.0\Tarefa1-segunda.AssemblyInfoInputs.cache
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\obj\Debug\net8.0\Tarefa1-segunda.AssemblyInfo.cs
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\obj\Debug\net8.0\Tarefa1-segunda.csproj.CoreCompileInputs.cache
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\obj\Debug\net8.0\Tarefa1-segunda.dll
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\obj\Debug\net8.0\refint\Tarefa1-segunda.dll
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\obj\Debug\net8.0\Tarefa1-segunda.pdb
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\obj\Debug\net8.0\Tarefa1-segunda.genruntimeconfig.cache
+C:\Users\Avest\source\repos\Tarefa1-segunda\Tarefa1-segunda\obj\Debug\net8.0\ref\Tarefa1-segunda.dll
