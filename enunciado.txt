@@ -1,0 +1,36 @@
+TAREFA 1
+#region 1 - Declarações
+// Declare una string com valor "ABCPTX", um boolean iniciado como verdadeiro, validando se existe na string "PTX", caso não exista altere o boolean para falso e printe o resultado. #endregion
+#region 2 - Propriedades e metodos extensivos
+//Usando a string declarada acima, ache a posição de indice en que se inicie a string "PTX" e printed
+//Separe tudo antes e tudo depois do indice encontrado en una lista de string (Vai ser utilizado depois.), Faça um loop iterando e printando cada una com o maximo de informações possíveis //Remova o X da string dentro da lista de string #endregion
+#region 3 - Listas e operações
+//Ordene alfabeticamente o valor da lista e printe cada valor da mesma
+//Utilize a lista de strings criada anteriormente e faça uma nova lista a partir de um filtro realizado na primeira dentro dos valores existentes na lista
+//Printe cada Linha existente na lista filtrada com o maximo de informação possivel
+#endregion
+#region 4 Tipos
+//Declare una string com valor inteiro > 8
+//Declare un int com valor 8
+//Converta a string para o int declarado com validações para falha de conversão
+//Faça o mesmo para decimal, double, float
+//Declare decimal, double e float com valor equivalente a 3,14
+#endregion
+#region 5 - Classes
+//Crie uma classe con todas propriedades acima con getters e setters, todos publicos #endregion
+#region 6 - Metodos
+//Crie metodos que recebam una string e converta para cada un dos tipos declarados acima
+#endregion
+#region 7 Tipos de Loop e Listas
+//Crie uma lista da classe criada no passo 5, com valores que você quiser nao sendo iguais. (Minimo 5) //Adicione um novo objeto dessa classe a mesma lista
+//Faça um loop foreach printando informações para poder identificar o dado
+//Faça um loop for printando informações para poder identificar o dado
+//Faça um Loop while printando informações para poder identificar o dado #endregion
+#region 8
+//Crie um novo arquivo.cs, crie uma nova classe e a instancialize com valores aqui
+#endregion
+#region 9
+//Crie um enumerator com 3 tipos enumeraveis en un arquivo separado, printe o numero do enumerator e a descrição de sua propriedade //Crie um switch case para o enumerator, printando a descrição de sua propriedade en cada caso, com um default qualquer #endregion
+#region 10
+//entender diferenças entre Int32, Int64, decimal, float, double
+//pesquisar sobre List, Array e niveis de acesso simples ( public e private ) #endregion
